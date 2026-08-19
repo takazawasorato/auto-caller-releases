@@ -12,13 +12,14 @@ Google スプレッドシートの電話番号リストに順番に発信する 
 ### 1. ダウンロード
 
 **[⬇ 最新版をダウンロード](https://github.com/takazawasorato/auto-caller-releases/releases/latest)** を開き、
-`AutoCaller-x.y.z.zip` をクリックしてダウンロードします。
+`AutoCaller-x.y.z.dmg` をクリックしてダウンロードします。
 
 ### 2. アプリケーションフォルダへ
 
-1. ダウンロードフォルダの zip をダブルクリック → **AutoCaller.app** が出てきます
-2. **AutoCaller.app を「アプリケーション」フォルダにドラッグ**して移動
-3. AutoCaller をダブルクリック
+1. ダウンロードフォルダの **`.dmg` をダブルクリック**して開きます
+2. 開いた窓で **AutoCaller のアイコンを、右の「Applications」フォルダへドラッグ**します
+3. ドラッグが終わったら窓を閉じ、`.dmg`(デスクトップ or Finder サイドバー)を取り出します
+4. **アプリケーションフォルダの AutoCaller をダブルクリック**して起動
 
 ### 3. ⚠️ 「開けません」と出たら (初回だけ)
 
